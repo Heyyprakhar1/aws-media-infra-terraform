@@ -63,6 +63,8 @@ terraform plan
 terraform apply
 
 [project-structure.txt](https://github.com/user-attachments/files/22910624/project-structure.txt)
+[project-structure.txt](https://github.com/user-attachments/files/22910799/project-structure.txt)
+
 
 🎯 Live Deployment
 Application URL: http://dev-alb-196771817.ap-south-1.elb.amazonaws.com
@@ -82,7 +84,7 @@ RDS: MySQL 8.0 (endpoint in outputs)
 🤝 Contributing
 Fork the repository
 
-Create a feature branch
+Create a feature branch.
 
 Commit your changes
 
